@@ -1,0 +1,38 @@
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\bin\Debug\02-TreeView.exe.config
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\bin\Debug\02-TreeView.exe
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\bin\Debug\02-TreeView.pdb
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeview.csproj.SuggestedBindingRedirects.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\App.g.cs
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\02-TreeView_MarkupCompile.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\02-TreeView_MarkupCompile.lref
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\MainWindow.baml
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\02-TreeView.g.resources
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\_02_TreeView.Properties.Resources.resources
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeview.csproj.GenerateResource.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeview.csproj.CoreCompileInputs.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\02-TreeView.exe
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\02-TreeView.pdb
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeView.csproj.Fody.CopyLocal.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeView.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\javad\OneDrive\Code\AngleSix WPF\02-TreeView\02-TreeView\obj\Debug\WpfTreeView.csproj.AssemblyReference.cache
+F:\javad\TreeViewMVVM\02-TreeView\bin\Debug\02-TreeView.exe.config
+F:\javad\TreeViewMVVM\02-TreeView\bin\Debug\02-TreeView.exe
+F:\javad\TreeViewMVVM\02-TreeView\bin\Debug\02-TreeView.pdb
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.AssemblyReference.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.SuggestedBindingRedirects.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\MainWindow.g.cs
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\App.g.cs
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\02-TreeView_MarkupCompile.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\02-TreeView_MarkupCompile.lref
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\MainWindow.baml
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\02-TreeView.g.resources
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\_02_TreeView.Properties.Resources.resources
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.GeneratedMSBuildEditorConfig.editorconfig
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.Fody.CopyLocal.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\WpfTreeView.csproj.Fody.RuntimeCopyLocal.cache
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\02-TreeView.exe
+F:\javad\TreeViewMVVM\02-TreeView\obj\Debug\02-TreeView.pdb
